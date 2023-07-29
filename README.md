@@ -42,9 +42,9 @@ I'm always open to collaborating on exciting machine learning projects. If you h
 #### 📫 How to Reach Me
 
 - Email: gurtejtalwar@gmail.com
-- LinkedIn: [linkedin.com/in/GurtejTalwar](https://www.linkedin.com/in/gurtejtalwar)
+- LinkedIn: [linkedin.com/in/gurtejtalwar](https://www.linkedin.com/in/gurtejtalwar)
 
-<b>⚡Fun Fact:</b> Neurons travel 150 mph in the brain
+<b>⚡Fun Fact:</b> Neurons travel upto 250 mph in the brain
 
 </br> 
 <p align="center">
