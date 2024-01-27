@@ -1,6 +1,6 @@
 ## Overview
 
-I'm Gurtej Talwar, a passionate and experienced Machine Learning Developer with a strong background in developing AI solutions in production. My journey in the world of machine learning has been an exciting and rewarding one, and I'm always eager to explore new challenges and collaborate with like-minded individuals.
+I'm Gurtej Talwar, a passionate and experienced Machine Learning Developer with a strong background in developing AI solutions for production. My journey in the world of machine learning has been an exciting and rewarding one, and I'm always eager to explore new challenges and collaborate with like-minded individuals.
 
 
 ### 🔬 Knowledge & Interests
